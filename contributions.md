@@ -29,4 +29,7 @@ Replace the first row below with your contribution.
 | 9      | [Open Street Map Contribution](https://www.openstreetmap.org/changeset/76224361#map=14/40.6283/-73.8883) | Open Street Map Feature | Added unmarked piers.                                        |
 | 9      | [Open Street Map Contribution](https://www.openstreetmap.org/changeset/76225587#map=16/40.5898/-73.9254) | Open Street Map Feature | Added and fixed piers and coastline.                         |
 | 10     | [Fearture Pull Request](https://github.com/open-osrs/runelite/pull/1877) | Project code            | Added a feature that I felt was missing from the project.    |
+| 12     | [Wikipedia edit](https://en.wikipedia.org/wiki/Special:Contributions/Benjamingur) | Wikipedia edit          | The word  "the" was missing in one of the fields for a [minor indie game](https://en.wikipedia.org/wiki/Deep_Rock_Galactic). |
+| 12     | [Wikipedia edit](https://en.wikipedia.org/wiki/Special:Contributions/Benjamingur) | Wikipedia edit          | The information on the [Pulsar: Lost Colony ](https://en.wikipedia.org/wiki/PULSAR:_Lost_Colony) page was out of date so I removed currently incorrect information and added some updated information to the page. |
+| 12     | [Wikipedia edit](https://en.wikipedia.org/wiki/Special:Contributions/Benjamingur) | Wikipedia edit          | Added more information that was not available of future updates that were not previously on the [Pulsar: Lost Colony](https://en.wikipedia.org/wiki/PULSAR:_Lost_Colony) page. |
 
